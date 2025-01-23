@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hey its test file
+=======
+HAAAAha not now
+
+>>>>>>> vedant
